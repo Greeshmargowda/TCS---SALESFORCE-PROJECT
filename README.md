@@ -1,4 +1,4 @@
-# E-Commerce Order Management System
+# E - Commerce Order Management System
 A compact, extendable Salesforce implementation to manage products, orders, inventory, and basic post-purchase automation.
 # Project overview
 This project builds a minimal, production-mindful e-commerce order management system inside Salesforce. It demonstrates:
